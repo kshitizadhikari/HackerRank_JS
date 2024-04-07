@@ -32,4 +32,4 @@ let query2 = [
 
 let result = arrayManipulation(5, query2);
 
-console.log(result);
+console.log(result); 
