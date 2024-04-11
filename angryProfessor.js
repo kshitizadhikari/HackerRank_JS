@@ -8,12 +8,7 @@ function angryProfessor(k, a) {
         }
         i++;
         n--;
-        console.log(check);
-        console.log(i);
-        console.log(n);
     }
-
-    console.log(check >= k ? "YES" : "NO");
     return check >= k ? "YES" : "NO";
 }
 
